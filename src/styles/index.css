@@ -19,9 +19,18 @@ ol {
   list-style-type: none;
 }
 
+div {
+  display: flex;
+}
+
 button {
   border: 0;
   outline: none;
+  cursor: pointer;
+  padding: 12px 20px;
+  margin-left: 15px;
+  border-radius: 8px;
+  background-color: #efed40;
 }
 p,
 h1,
