@@ -1,8 +1,8 @@
 import React from "react";
-import Form from "./Form";
+import Validate from "./static/Validate";
 
 function App() {
-  return <Form />;
+  return <Validate />;
 }
 
 export default App;
