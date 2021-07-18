@@ -43,3 +43,16 @@ h6 {
   padding: 0;
   line-height: 1.2;
 }
+
+.row {
+  width: 100%;
+}
+
+.form-group {
+  display: block;
+  margin-top: 10px;
+}
+
+.label {
+  margin-bottom: 8px;
+}
